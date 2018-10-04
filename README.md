@@ -11,9 +11,9 @@ circuito1.jpg, circuito2.jpg -> Evidencia del armado y funcionamiento del circui
 
 diagrama.jpg -> Imagen del diagrama de conexiones
 
-Alarma.fzz -> Diseño del diagrama de conexiones hecha en Fritzing
+alarma.fzz -> Diseño del diagrama de conexiones hecha en Fritzing
 
-Alarma.ino -> Codigo en Arduino que contiene las instrucciones para la corecta realizacion de la practica
+alarma_puerta.ino -> Codigo en Arduino que contiene las instrucciones para la corecta realizacion de la practica
 
 # Contacto
 estefania_mejia23@hotmail.com
