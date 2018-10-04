@@ -7,7 +7,7 @@ El circuito esta programado para  que la alrma se encienda cuando el redswitch s
 # Archivos incluidos
 README.md -> Este archivo
 
-Circuito1.jpg, Circuito2.jpg -> Evidencia del armado y funcionamiento del circuito
+circuito1.jpg, circuito2.jpg -> Evidencia del armado y funcionamiento del circuito
 
 diagrama.jpg -> Imagen del diagrama de conexiones
 
